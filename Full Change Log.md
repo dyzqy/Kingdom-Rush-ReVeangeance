@@ -1,8 +1,8 @@
 =============[KINGDOM RUSH: REVENGEANCE CHANGE LOG]=============
 
-----------[TOWERS]-----------
+# TOWERS
 
-[GENERAL]
+## GENERAL
 -Most towers have received localization changes, most visibly unique titles and descriptions for each level of tower
 -Barracks names have been edited according to suggestions by Moth
 -Most towers have received range bonuses
@@ -10,26 +10,26 @@
 -Barracks heal tick time decreased from 2s to 1s
 
 [SHADOW ARCHERS]
--L1 damage increased from 3-4 to 6-8
--L1 fire rate decreased from 0.7s to 1s
--L1 range increased from 300 to 335
--L2 damage increased from 7-14 to 12-16
--L2 fire rate decreased from 0.7s to 0.9s
--L2 range increased from 330 to 370
--L3 cost decreased from 190 to 180
--L3 damage increased from 14-21 to 18-25
--L3 fire rate decreased from 0.7s to 0.8s 
--L3 range increased from 360 to 405
--L4 cost decreased from 280 to 250
--L4 range increased from 400 to 440
--Shadow Mark
-	-Cooldown decreased from 20s to 6s
-	-Duration increased from 5s to 6s
-	-Now does basic attack damage when fired
-	-Is now affected by Advanced Targeting System
--Blade of Demise cooldown decreased from 40/30/24s to 30/25/20s
--Crow's Nest damage increased from 1/2 to 6/12
--Crow's Nest deals true damage
+- L1 damage increased from 3-4 to 6-8
+- L1 fire rate decreased from 0.7s to 1s
+- L1 range increased from 300 to 335
+- L2 damage increased from 7-14 to 12-16
+- L2 fire rate decreased from 0.7s to 0.9s
+- L2 range increased from 330 to 370
+- L3 cost decreased from 190 to 180
+- L3 damage increased from 14-21 to 18-25
+- L3 fire rate decreased from 0.7s to 0.8s 
+- L3 range increased from 360 to 405
+- L4 cost decreased from 280 to 250
+- L4 range increased from 400 to 440
+- Shadow Mark
+	- Cooldown decreased from 20s to 6s
+	- Duration increased from 5s to 6s
+	- Now does basic attack damage when fired
+	- Is now affected by Advanced Targeting System
+- Blade of Demise cooldown decreased from 40/30/24s to 30/25/20s
+- Crow's Nest damage increased from 1/2 to 6/12
+- Crow's Nest deals true damage
 
 These changes generally serve to move the Shadow Archer toward a long-range generalist role among the Archers. 
 
