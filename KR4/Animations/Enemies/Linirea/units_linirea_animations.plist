@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>includes</key>
+	<dict>
+		<key>linirea_farmer_animations.plist</key>
+		<dict/>
+		<key>linirea_soldier_animations.plist</key>
+		<dict/>
+		<key>musketeer_animations.plist</key>
+		<dict/>
+		<key>linirea_banner_soldier_animations.plist</key>
+		<dict/>
+		<key>paladin_animations.plist</key>
+		<dict/>
+		<key>knight_rider_animations.plist</key>
+		<dict/>
+		<key>tower_shield_knight_animations.plist</key>
+		<dict/>
+		<key>griffin_bombardier_animations.plist</key>
+		<dict/>
+		<key>arcane_magus_animations.plist</key>
+		<dict/>
+		<key>devoted_priest_animations.plist</key>
+		<dict/>
+		<key>high_sorcerer_animations.plist</key>
+		<dict/>
+		<key>high_sorcerer_sheep_animations.plist</key>
+		<dict/>
+		<key>glacial_wolf_animations.plist</key>
+		<dict/>
+		<key>elven_warrior_animations.plist</key>
+		<dict/>
+		<key>hunting_eagle_animations.plist</key>
+		<dict/>
+		<key>watchdog_animations.plist</key>
+		<dict/>
+		<key>magnus_animations.plist</key>
+		<dict/>
+	</dict>
+	<key>animations</key>
+	<dict/>
+</dict>
+</plist>
