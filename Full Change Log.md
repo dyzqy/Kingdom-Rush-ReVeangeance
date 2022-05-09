@@ -502,854 +502,854 @@ This tower was changed so that it feels more laser-y. The 0.4s fire rate didn't 
 Props to anyone who actually read through every change here. The goal of this rework was to make the Reef not a half-measure at Barracks and Mage, but good at both. Of course, you pay a premium for such power, so it is the most expensive tower in any game. Redspine ranged attack was changed to be more similar to KRF. Perfect Storm is now pretty decent, mostly due to the perma-stun it provides for the duration.
 
 
-[SHAOLIN TEMPLE]
--Range increased from 320 to 380
--Number of monks decreased from 3 to 2
--Attack cooldown increased from 0.8s to 1.2s
--Should no longer continue to attack possessed targets
--L1 damage increased from 2-4 to 4-8
--L1 stun decreased from 0.6s to 0.4s
--L2 damage increased from 5-9 to 10-18
--L2 stun decreased from 0.6s to 0.53s
--L3 damage increased from 9-17 to 18-34
--L3 stun increased from 0.6s to 0.66s
--L4 damage increased from 14-26 to 28-52
--L4 stun increased from 0.6s to 0.8s
--Dragon Warrior
-	-HP decreased from 400 to 200
-	-Damage type changed to true
-	-Respawn time increased from 13s to 15s
--Shaolin Monks (upgrade) replaced with Six-Star Strike
-	-Deals 6 instances of 36 true damage in an area of 90 each
-	-Each instance applies a stacking 1.36x damage multiplier for 0.66 seconds
-	-Cooldown is 30/24/18 seconds
-	-Cost is 300/225/225
+## SHAOLIN TEMPLE
+- Range increased from 320 to 380
+- Number of monks decreased from 3 to 2
+- Attack cooldown increased from 0.8s to 1.2s
+- Should no longer continue to attack possessed targets
+- L1 damage increased from 2-4 to 4-8
+- L1 stun decreased from 0.6s to 0.4s
+- L2 damage increased from 5-9 to 10-18
+- L2 stun decreased from 0.6s to 0.53s
+- L3 damage increased from 9-17 to 18-34
+- L3 stun increased from 0.6s to 0.66s
+- L4 damage increased from 14-26 to 28-52
+- L4 stun increased from 0.6s to 0.8s
+- Dragon Warrior
+	- HP decreased from 400 to 200
+	- Damage type changed to true
+	- Respawn time increased from 13s to 15s
+- Shaolin Monks (upgrade) replaced with Six-Star Strike
+	- Deals 6 instances of 36 true damage in an area of 90 each
+	- Each instance applies a stacking 1.36x damage multiplier for 0.66 seconds
+	- Cooldown is 30/24/18 seconds
+	- Cost is 300/225/225
 
 The Shaolin should be significantly less niche now. Overall, their stun capacity has been decreased to about 66%, but their damage is 33% higher. The Dragon Warrior was too tanky for the price, but now gets true damage in compensation. And best of all, the boring and ineffective Shaolin Monks upgrade was replaced with a cooler active ability.
 
 
-[SWAMP THING] 
--Melee mode regeneration drastically increased
--Rally range increased from 250 to 300
--Respawn decreased from 20s to 15s
--L1 cost increased from 120 to 140
--L1 ranged damage changed from 19-21 to 17-27
--L1 range decreased from 370 to 360
--L1 HP decreased from 800 to 600
--L1 melee damage decreased from 10-20 to 6-20
--L2 cost increased from 150 to 210
--L2 ranged damage increased from 38-42 to 43-53
--L2 range increased from 430 to 440
--L2 HP decreased from 1500 to 900
--L2 melee damage decreased from 20-40 to 14-35
--L3 cost increased from 210 to 280
--L3 ranged damage increased from 65-71 to 76-86
--L3 range increased from 500 to 520
--L3 HP decreased from 2200 to 1200
--L3 melee damage decreased from 30-80 to 22-55
--L4 cost increased from 290 to 350
--L4 damage increased from 90-100 to 115-125
--L4 HP decreased from 3000 to 1500
--L4 melee damage decreased from 40-100 to 30-75
--Smash!
-	-Cost increased from 150/150/150 to 250/150/150
-	-No longer grants instakill chance
-	-Now deals area damage (in both ranged and melee), and makes every enemy hit deal only 60% of its damage.
-	-Damage is 60-90/90-120/120-150
-	-Damage area is 120 in ranged and 150 in melee (same as regular melee attack)
--Blinding Liquid 
-	-Stun time decreased from 3s to 1.5s
-	-Chance decreased from 20/40/60% to 10/20/30% in melee (but still 20/40/60% in ranged)
-	-Blinding Liquid no longer gives higher melee damage when it procs
+## SWAMP THING
+- Melee mode regeneration drastically increased
+- Rally range increased from 250 to 300
+- Respawn decreased from 20s to 15s
+- L1 cost increased from 120 to 140
+- L1 ranged damage changed from 19-21 to 17-27
+- L1 range decreased from 370 to 360
+- L1 HP decreased from 800 to 600
+- L1 melee damage decreased from 10-20 to 6-20
+- L2 cost increased from 150 to 210
+- L2 ranged damage increased from 38-42 to 43-53
+- L2 range increased from 430 to 440
+- L2 HP decreased from 1500 to 900
+- L2 melee damage decreased from 20-40 to 14-35
+- L3 cost increased from 210 to 280
+- L3 ranged damage increased from 65-71 to 76-86
+- L3 range increased from 500 to 520
+- L3 HP decreased from 2200 to 1200
+- L3 melee damage decreased from 30-80 to 22-55
+- L4 cost increased from 290 to 350
+- L4 damage increased from 90-100 to 115-125
+- L4 HP decreased from 3000 to 1500
+- L4 melee damage decreased from 40-100 to 30-75
+- Smash!
+	- Cost increased from 150/150/150 to 250/150/150
+	- No longer grants instakill chance
+	- Now deals area damage (in both ranged and melee), and makes every enemy hit deal only 60% of its damage.
+	- Damage is 60-90/90-120/120-150
+	- Damage area is 120 in ranged and 150 in melee (same as regular melee attack)
+- Blinding Liquid 
+	- Stun time decreased from 3s to 1.5s
+	- Chance decreased from 20/40/60% to 10/20/30% in melee (but still 20/40/60% in ranged)
+	- Blinding Liquid no longer gives higher melee damage when it procs
 -Carnivore now gives the ranged mode +15% damage
 
 Melee mode has been nerfed quite a bit, because frankly having a 3000 HP allied unit is kinda broken. To counter this, the passive regen was increased dramatically. Smash! is now a weakening ability, as instakill chance based abilities are not great design. Blinding Liquid was already OP so it was nerfed significantly.
 
 
-----------[HEROES]----------
-[GENERAL]
--Hero XP requirement per level decreased significantly, roughly halved across the board
-	-Note: For whatever reason, L10 appears to be hardcoded at 400K xp, while this mod puts it at 115.3K. As a result, hero xp bars may glitch out between levels 9 and 10, and L10 will be much harder to achieve than any prior level.
--Hero regeneration tick decreased from 2s to 1s, excluding Tramin and Jun'pai
--Skill costs have changed to reflect the new balance
+# HEROES
+## GENERAL
+- Hero XP requirement per level decreased significantly, roughly halved across the board
+	- Note: For whatever reason, L10 appears to be hardcoded at 400K xp, while this mod puts it at 115.3K. As a result, hero xp bars may glitch out between levels 9 and 10, and L10 will be much harder to achieve than any prior level.
+- Hero regeneration tick decreased from 2s to 1s, excluding Tramin and Jun'pai
+- Skill costs have changed to reflect the new balance
 
-[VERUK]
--Initial and max armor increased by 6%, from 3% and 30% to 9% and 36%
--Damage increased from 4-11 (+1, +3) [13-38] to 8-11 (+2, +3) [26-38]
--Thirst for War functionality changed 
-	-No longer heals 1/2/3 HP every second
-	-Now heals 5/10/15 HP/s while in melee combat
--Aimed Slashes now benefits from Duelist
--Brute Force unit cap increased from 5 to 10
--Duelist
-	-Tick time changed from 5s to 1s
-	-Damage % increase per tick decreased from 8/20/36 to 5/10/15
-	-Max stacks increased from 3 to 10
-	-Max damage % increase increased from 24/60/108 to 50/100/150
--Inspiring Leader
-	-Cooldown decreased from 20/18/15s to 15/13/11s
-	-Goblin T1 HP decreased from 50 to 40
-	-Goblin damage set to 6-8 at all levels
--Enter the Warmongers
-	-Cooldown decreased from 40s to 15s
-	-Warmonger HP decreased from 70 (+30) [180] to 70 (+20) [130]
-	-Melee and ranged damage set to same value
-	-Damage decreased to 6-8 (+2, +3) [12-17]
-	-Duration increased from 10s to 15/20/25/30s
+## VERUK
+- Initial and max armor increased by 6%, from 3% and 30% to 9% and 36%
+- Damage increased from 4-11 (+1, +3) [13-38] to 8-11 (+2, +3) [26-38]
+- Thirst for War functionality changed 
+	- No longer heals 1/2/3 HP every second
+	- Now heals 5/10/15 HP/s while in melee combat
+- Aimed Slashes now benefits from Duelist
+- Brute Force unit cap increased from 5 to 10
+- Duelist
+	- Tick time changed from 5s to 1s
+	- Damage % increase per tick decreased from 8/20/36 to 5/10/15
+	- Max stacks increased from 3 to 10
+	- Max damage % increase increased from 24/60/108 to 50/100/150
+- Inspiring Leader
+	- Cooldown decreased from 20/18/15s to 15/13/11s
+	- Goblin T1 HP decreased from 50 to 40
+	- Goblin damage set to 6-8 at all levels
+- Enter the Warmongers
+	- Cooldown decreased from 40s to 15s
+	- Warmonger HP decreased from 70 (+30) [180] to 70 (+20) [130]
+	- Melee and ranged damage set to same value
+	- Damage decreased to 6-8 (+2, +3) [12-17]
+	- Duration increased from 10s to 15/20/25/30s
 
 Wow Veruk is actually good now! He excels at 2 things - unit spam and dueling. His small Goblins are summoned a lot more often, so it's esay to have them up for any engagement. And his ult is now like a 2nd pair of reinforcements! His innate now heals him significantly, but only in combat, which ties into Duelist now stacking faster so he can make better use of it. 
 
-[ASRA]
--HP decreased from 100 (+20) [280] to 105 (+15) [240]
--Armor decreased from 6 (+1) [15] to 0
--Melee damage changed from 6-9 (+1.22, +1.88) [17-26] to 6-9 (+1, +2) [15-27]
--Ranged damage increased from 7-11 (+1.66, +2.33) [22-32] to 6-10 (+3, +4) [33-46]
--Spider Bite
-	-Damage increased from 7/15/35 per tick to 36/72/108 per tick
-	-Deals 9-15/12-21/15-27 damage on hit
-	-Is now uninterruptible
--Onyx Arrows 
-	-Arrows decreased from 3/4/5 to 2/3/4
-	-Damage decreased from 20-30/28-42/36-54 to 10-20/20-30/30-40
-	-Cooldown decreased from 18s to 10s
-	-Damage type changed from magic to true
-	-Armor reduction increased from 2/4/6 to 5/10/15 per shot
--Quiver of Sorrow armor break increased from 1/2/3 to 2/4/6
--Shield of Shadows 
-	-Shield amount decreased from 120/400/600 to 80/160/240
-	-Duration decreased from 4s to 3s
-	-Cooldown decreased from 22s to 10s
--Toxic Rain
-	-Arrows increased from 12 to 18
-	-Damage increased from 10/15/30/50 to 26/52/78/104
-	-Cooldown increased from 50s to 80s
+## ASRA
+- HP decreased from 100 (+20) [280] to 105 (+15) [240]
+- Armor decreased from 6 (+1) [15] to 0
+- Melee damage changed from 6-9 (+1.22, +1.88) [17-26] to 6-9 (+1, +2) [15-27]
+- Ranged damage increased from 7-11 (+1.66, +2.33) [22-32] to 6-10 (+3, +4) [33-46]
+- Spider Bite
+	- Damage increased from 7/15/35 per tick to 36/72/108 per tick
+	- Deals 9-15/12-21/15-27 damage on hit
+	- Is now uninterruptible
+- Onyx Arrows 
+	- Arrows decreased from 3/4/5 to 2/3/4
+	- Damage decreased from 20-30/28-42/36-54 to 10-20/20-30/30-40
+	- Cooldown decreased from 18s to 10s
+	- Damage type changed from magic to true
+	- Armor reduction increased from 2/4/6 to 5/10/15 per shot
+- Quiver of Sorrow armor break increased from 1/2/3 to 2/4/6
+- Shield of Shadows 
+	- Shield amount decreased from 120/400/600 to 80/160/240
+	- Duration decreased from 4s to 3s
+	- Cooldown decreased from 22s to 10s
+- Toxic Rain
+	- Arrows increased from 12 to 18
+	- Damage increased from 10/15/30/50 to 26/52/78/104
+	- Cooldown increased from 50s to 80s
 
 Asra took a few nerfs so she isn't as jack of all trades as before. She is now more fragile overall, while her shield has less HP (though it does have a lower cooldown). Toxic Rain also has a significant cooldown increase, though it deals more damage. Asra's main buffs are in her Onyx Arrows (much lower cooldown) and armor break, which has been restored to its pre-nerf values.
 
-[OLOCH]
--Changed skills costs to better reflect power levels
--Melee damage increased from 1-3 (+0.77, +1.22) [8-14] to 5-7 (+1, +1) [14-16]
--Ranged damage increased from 4-8 (+2.33, +4.22) [25-46] to 8-15 (+3,+5) [35-60]
--Infernal Combustion damage increased from 50/70/100 to 120/240/360
--Movement speed increased from 55 to 66
--Duplication
-	-Duplicates per cast decreased from 2 to 1
-	-Duplication cooldown decreased from 25 to 10
-	-Duplicate damage changed from 10-20/16-48/24-72 to 14-25/23-40/32-55
-	-Duplicate fire rate decreased from 1.6s to 1.8s
-	-Is now uninterruptible
--Magma Eruption area increased from 40 to 100
--Magma Eruption is now uninterruptible
--Hellish Infusion
-	-Range increased from 300 to 350
-	-Duration increased from 6s to 15s
-	-Is now uninterruptible
-	-Does not trigger while moving
--Demonic Blast
-	-Targets the enemy with the highest HP in range
-	-Damage increased from 60-180/120-360/180-540 to 120-180/240-360/360-540
-	-Is now uninterruptible
--Seal of Isolation cooldown increased from 30/27/24/20s to 30s
--Seal of Isolation now briefly stuns enemies in the slight delay before teleporting, interrupting any abilities they were performing.
+## OLOCH
+- Changed skills costs to better reflect power levels
+- Melee damage increased from 1-3 (+0.77, +1.22) [8-14] to 5-7 (+1, +1) [14-16]
+- Ranged damage increased from 4-8 (+2.33, +4.22) [25-46] to 8-15 (+3,+5) [35-60]
+- Infernal Combustion damage increased from 50/70/100 to 120/240/360
+- Movement speed increased from 55 to 66
+- Duplication
+	- Duplicates per cast decreased from 2 to 1
+	- Duplication cooldown decreased from 25 to 10
+	- Duplicate damage changed from 10-20/16-48/24-72 to 14-25/23-40/32-55
+	- Duplicate fire rate decreased from 1.6s to 1.8s
+	- Is now uninterruptible
+- Magma Eruption area increased from 40 to 100
+- Magma Eruption is now uninterruptible
+- Hellish Infusion
+	- Range increased from 300 to 350
+	- Duration increased from 6s to 15s
+	- Is now uninterruptible
+	- Does not trigger while moving
+- Demonic Blast
+	- Targets the enemy with the highest HP in range
+	- Damage increased from 60-180/120-360/180-540 to 120-180/240-360/360-540
+	- Is now uninterruptible
+- Seal of Isolation cooldown increased from 30/27/24/20s to 30s
+- Seal of Isolation now briefly stuns enemies in the slight delay before teleporting, interrupting any abilities they were performing.
 
 Oloch, similarly to Asra, saw a significant nerf to his ultimate in terms of cooldown. Luckily, the rest of his kit received huge buffs to compensate. Duplicates can be used more often, Magma Eruption hits multiple targets, and Demonic Blast will rarely be wasted. Most importantly, he now deals actual damage when he dies.
 
-[MARGOSA]
--Damage increased from 13-20 (+2.33, +3.33) [34-50] to 13-20 (+3, +4) [40-56]
--Bat Familiar damage increased from 3-7/6-14/9-21 to 5-7/10-14/15-21
--Mist of Despair
-	-Cooldown decreased from 20s to 20/15/10s
-	-Range increased from 40 to 80
-	-Damage increased from 2/3/5 to 2/4/6 per tick
--Dark Call
-	-Now targets spellcasters exclusively (but still only those that are closer to the exit than her)
-	-Afflicts the target with a 2x damage taken debuff for 4/8/8s
-	-No longer stuns the target
-	-Cooldown reduced from 20s to 15/15/10s
--Vampiric Touch healing increased from 20/30/50% of damage dealt to 20/40/60%
--Beast Form (Pending Rebalance)
-	-Beast Form HP increased from 500 to 750
-	-Damage increased to 30-45/60-75/90-105/120-135
-	-Duration decreased to 5s
-	-Cooldown decreased to 15s
+## MARGOSA
+- Damage increased from 13-20 (+2.33, +3.33) [34-50] to 13-20 (+3, +4) [40-56]
+- Bat Familiar damage increased from 3-7/6-14/9-21 to 5-7/10-14/15-21
+- Mist of Despair
+	- Cooldown decreased from 20s to 20/15/10s
+	- Range increased from 40 to 80
+	- Damage increased from 2/3/5 to 2/4/6 per tick
+- Dark Call
+	- Now targets spellcasters exclusively (but still only those that are closer to the exit than her)
+	- Afflicts the target with a 2x damage taken debuff for 4/8/8s
+	- No longer stuns the target
+	- Cooldown reduced from 20s to 15/15/10s
+- Vampiric Touch healing increased from 20/30/50% of damage dealt to 20/40/60%
+- Beast Form (Pending Rebalance)
+	- Beast Form HP increased from 500 to 750
+	- Damage increased to 30-45/60-75/90-105/120-135
+	- Duration decreased to 5s
+	- Cooldown decreased to 15s
 
 Margosa can now hopefully use her other skills more often and more effectively. The intent is to make her into a mage killer, who snipes the spellasters before they become an issue by combining her Dark Call with a quick usage of Beast Form. Her playstyle should no longer be just 'beast form go brr'. 
 
-[MORTEMIS]
--Melee damage increased from 3-5 (+0.77, +1.55) [10-19] to 3-5 (+1,+1) [12-14]
--Ranged damage changed from 5-30 (+1.55, +8.33) [19-105] to 5-30 (+6,8) [59-102]
--Movement speed increased from 55 to 60
--Call of the Haunted
-	-Cooldown decreased from 30s to 20s
-	-Duration increased from 6/7/8s to 6/8/10s
--Rotten Land
-	-Cooldown decreased from 20s to 10s
-	-No longer targets Ghosts or Frozen Souls
-	-Is now uninterruptible
--Grim Presence
-	-Range increased from 200 to 225
-	-Affected enemies now have a green circle at their feet (like Dread Aura, but green instead of purple)
-	-Max units increased from 8 to infinite
--Zombie HP increased from 50/110/160 to 70/140/210
--Zombie damage increased from 1-3/3-6/4-8 to 2-4/3-6/4-8
--Rotten Bodyguard
-	-Behemoth HP increased from 500/600/650/700 to 500/600/700/800
-	-Behemoth damage increased from 5-13/8-25/16-50/25-75 to 5-15/20-35/35-55/50-75
-	-Behemoth duration increased from 15s to 24s
+## MORTEMIS
+- Melee damage increased from 3-5 (+0.77, +1.55) [10-19] to 3-5 (+1,+1) [12-14]
+- Ranged damage changed from 5-30 (+1.55, +8.33) [19-105] to 5-30 (+6,8) [59-102]
+- Movement speed increased from 55 to 60
+- Call of the Haunted
+	- Cooldown decreased from 30s to 20s
+	- Duration increased from 6/7/8s to 6/8/10s
+- Rotten Land
+	- Cooldown decreased from 20s to 10s
+	- No longer targets Ghosts or Frozen Souls
+	- Is now uninterruptible
+- Grim Presence
+	- Range increased from 200 to 225
+	- Affected enemies now have a green circle at their feet (like Dread Aura, but green instead of purple)
+	- Max units increased from 8 to infinite
+- Zombie HP increased from 50/110/160 to 70/140/210
+- Zombie damage increased from 1-3/3-6/4-8 to 2-4/3-6/4-8
+- Rotten Bodyguard
+	- Behemoth HP increased from 500/600/650/700 to 500/600/700/800
+	- Behemoth damage increased from 5-13/8-25/16-50/25-75 to 5-15/20-35/35-55/50-75
+	- Behemoth duration increased from 15s to 24s
 
 Mortemis got a significantly lower damage variance, because high variance is a terrible idea. Otherwise, some minor buffs here and there, with the most notable being to his summons. Regular zombies are much healthier. The Behemoth meanwhile, has improved damage, HP, and duration.
 
-[TRAMIN]
--HP decreased from 150 (+20) [330] to 49 (+14) [175]
--Armor increased from 1 (+2.55) [24] to 10 (+2) [28]
--Melee damage changed from 4-8 (+0.55, +1.44) [9-21] to 7-6 (+0, +11) [7-105], with level 1 being 6-6
--Melee attack rate decreased from 1s to 0.7s
--Ranged damage increased from 7-17 (+1.22, +2.77) [18-42] to 8-14 (+3,7) [35-77]
--Ranged fire rate decreased from 1.5s to 1.4s
--Ranged area increased from 40 to 77
--Ranged attack has sound now
--Heal increment decreased from 2s to 0.7s
--Heals 7/14/21 HP per tick, increasing on levels 4/8
--Speed increased to 70
--Respawn decreased from 18s to 17.5s
--Boombots
-	-Cooldown decreased from 10s to 7s
-	-Duration decreased from 60s to 56s
-	-Damage increased from 28-52/42-78/56-104 to 28-70/42-105/56-140
-	-No longer resets Tramin's ranged attack
--Nitro Rush 
-	-Cooldown decreased from 40s to 35s
-	-Duration decreased from 7/14/22s to 7/14/21s
-	-Affects Tramin's melee attack
--Flashbang
-	-Cooldown decreased from 25s to 21s
-	-Stun duration increased from 1/2/3 to 1.4/2.8/4.2
-	-Cast range increased to 322
-	-Area increased from 100 to 105
-	-No longer resets Tramin's ranged attack
--Rocket Barrage
-	-Cooldown increased from 18s to 21s
-	-Rockets increased from 2/4/6 to 3/5/7
-	-Damage decreased from 25-46/32-59/39-72 to 21-35/35-49/49-63
-	-Damage type changed to explosive
--Bombaggedon
-	-Bombs changed from 3/5/7/9 to 7
-	-Damage increased from 80/120/170/200 to 77/154/231/308
-	-Area increased to 105
-	-XP decreased from 350 to 250
+## TRAMIN
+- HP decreased from 150 (+20) [330] to 49 (+14) [175]
+- Armor increased from 1 (+2.55) [24] to 10 (+2) [28]
+- Melee damage changed from 4-8 (+0.55, +1.44) [9-21] to 7-6 (+0, +11) [7-105], with level 1 being 6-6
+- Melee attack rate decreased from 1s to 0.7s
+- Ranged damage increased from 7-17 (+1.22, +2.77) [18-42] to 8-14 (+3,7) [35-77]
+- Ranged fire rate decreased from 1.5s to 1.4s
+- Ranged area increased from 40 to 77
+- Ranged attack has sound now
+- Heal increment decreased from 2s to 0.7s
+- Heals 7/14/21 HP per tick, increasing on levels 4/8
+- Speed increased to 70
+- Respawn decreased from 18s to 17.5s
+- Boombots
+	- Cooldown decreased from 10s to 7s
+	- Duration decreased from 60s to 56s
+	- Damage increased from 28-52/42-78/56-104 to 28-70/42-105/56-140
+	- No longer resets Tramin's ranged attack
+- Nitro Rush 
+	- Cooldown decreased from 40s to 35s
+	- Duration decreased from 7/14/22s to 7/14/21s
+	- Affects Tramin's melee attack
+- Flashbang
+	- Cooldown decreased from 25s to 21s
+	- Stun duration increased from 1/2/3 to 1.4/2.8/4.2
+	- Cast range increased to 322
+	- Area increased from 100 to 105
+	- No longer resets Tramin's ranged attack
+- Rocket Barrage
+	- Cooldown increased from 18s to 21s
+	- Rockets increased from 2/4/6 to 3/5/7
+	- Damage decreased from 25-46/32-59/39-72 to 21-35/35-49/49-63
+	- Damage type changed to explosive
+- Bombaggedon
+	- Bombs changed from 3/5/7/9 to 7
+	- Damage increased from 80/120/170/200 to 77/154/231/308
+	- Area increased to 105
+	- XP decreased from 350 to 250
 
 Tramin has been redesigned around being a mad inventor obsessed with the number 7. Hence, nearly everything in his kit is divisble by 7. He did get some QOL changes in the process, such as special explosives not resetting his ranged attack and an actual reasonable basic attack AoE. You can also gamble and play melee Tramin. 
 
-[JIGOU]
--Armor changed from 7 (+1.88) [24] to 6 (+2) [24%]
--Damage decreased from 16-24 (+4.77, +7.22) [59-89] to 16-24 (+3,5) [43-69]
--Respawn increased from 20s to 25s
--Movement speed increased from 42 to 55
--Yeti Blood healing increased from 3/5/6 per tick to 3/5/7 per tick
--Ice Ball
-	-Damage increased from 35-65/88-163/158-193 to 55-105/125-195/195-285
-	-Area increased from 60 to 75
-	-Is now uninterruptible
-	-Does not trigger while moving
--Glacial Form is now uninterruptible
--Earth Slam
-	-Cooldown decreased from 30s to 25s
-	-Number of hits decreased from 4/8/13 to 4/8/12
-	-Is now uninterruptible
--Frozen Breath blind spot removed
--Frozen Breath pattern variance disabled
--Ice Zone
-	-Damage changed from single hit to DoT
-	-Deals 10/20/30/40 damage every 1s
-	-Slow changed from 15/30/40/60 to 15/30/45/60
-	-Area increased to 100
+## JIGOU
+- Armor changed from 7 (+1.88) [24] to 6 (+2) [24%]
+- Damage decreased from 16-24 (+4.77, +7.22) [59-89] to 16-24 (+3,5) [43-69]
+- Respawn increased from 20s to 25s
+- Movement speed increased from 42 to 55
+- Yeti Blood healing increased from 3/5/6 per tick to 3/5/7 per tick
+- Ice Ball
+	- Damage increased from 35-65/88-163/158-193 to 55-105/125-195/195-285
+	- Area increased from 60 to 75
+	- Is now uninterruptible
+	- Does not trigger while moving
+- Glacial Form is now uninterruptible
+- Earth Slam
+	- Cooldown decreased from 30s to 25s
+	- Number of hits decreased from 4/8/13 to 4/8/12
+	- Is now uninterruptible
+- Frozen Breath blind spot removed
+- Frozen Breath pattern variance disabled
+- Ice Zone
+	- Damage changed from single hit to DoT
+	- Deals 10/20/30/40 damage every 1s
+	- Slow changed from 15/30/40/60 to 15/30/45/60
+	- Area increased to 100
 
 Jigou hasn't received many changes, mostly just the usual reduce variance / fixing non-linear health scaling. His ultimate now damages as a DoT, which is different.
 
-[BERESAD]
--HP decreased from 375 (+25) [600] to 300 (+10) [390]
--Damage changed from 13-23 (+3.11, +5.88) [41-76] to 13-23 (+4,+5) [49-68]
--Damage type changed to true
--Speed decreased from 90 to 60
--Avarice bonus increased from 2 gold to 15 gold
--Skill order changed to Obliterate, Fear the Dragon, Dragon Spawn, Conflagration
--Obliterate
+BERESAD
+- HP decreased from 375 (+25) [600] to 300 (+10) [390]
+- Damage changed from 13-23 (+3.11, +5.88) [41-76] to 13-23 (+4,+5) [49-68]
+- Damage type changed to true
+- Speed decreased from 90 to 60
+- Avarice bonus increased from 2 gold to 15 gold
+- Skill order changed to Obliterate, Fear the Dragon, Dragon Spawn, Conflagration
+- Obliterate
 	-Cooldown decreased from 70/60/50s to 50s
 	-Area damage increased from 8-12/12-18/18-24 to 50-60/100-120/150-180
 	-Range increased from 250 to 350, min range decreased from 100 to 40
 	-Is now uninterruptible
--Fear the Dragon
-	-Cooldown increased from 22s to 24s
-	-Duration decreased from 3/5/7s to 2/4/6s
-	-Max targets decreased from 6 to 5
-	-Range decreased from 450 to 350
-	-Is now uninterruptible
--Dragon Spawn
-	-HP changed from 300 to 125/250/375
-	-Armor increased from 0 to 40
-	-Duration increased from 20s to 35s
-	-Cooldown decreased from 45s to 30s
-	-Now deals 50 explosive damage in area 90 when the unit spawns
-	-Range increased from 200 to 350, min range increased from 1 to 40
--Conflagration
-	-Tick time decreased from 0.2s to 0.1s
-	-Area increased from 80 to 120
-	-Damage decreased from 2/3/5 to 2/3/4
-	-Cooldown decreased from 28/26/24s to 24s
-	-Now deals 0/50/100 initial true damage
-	-Range increased from 260 to 350, min range decreased from 50 to 40
--Hellfire
-	-Cooldown increased from 70s to 90s
-	-Burn duration increased from 4s to 6s
-	-Damage changed from 1/3/6/9 per tick to 2/4/6/8 per tick
+- Fear the Dragon
+	- Cooldown increased from 22s to 24s
+	- Duration decreased from 3/5/7s to 2/4/6s
+	- Max targets decreased from 6 to 5
+	- Range decreased from 450 to 350
+	- Is now uninterruptible
+- Dragon Spawn
+	- HP changed from 300 to 125/250/375
+	- Armor increased from 0 to 40
+	- Duration increased from 20s to 35s
+	- Cooldown decreased from 45s to 30s
+	- Now deals 50 explosive damage in area 90 when the unit spawns
+	- Range increased from 200 to 350, min range increased from 1 to 40
+- Conflagration
+	- Tick time decreased from 0.2s to 0.1s
+	- Area increased from 80 to 120
+	- Damage decreased from 2/3/5 to 2/3/4
+	- Cooldown decreased from 28/26/24s to 24s
+	- Now deals 0/50/100 initial true damage
+	- Range increased from 260 to 350, min range decreased from 50 to 40
+- Hellfire
+	- Cooldown increased from 70s to 90s
+	- Burn duration increased from 4s to 6s
+	- Damage changed from 1/3/6/9 per tick to 2/4/6/8 per tick
 
 Like all dragons, Beresad has lost a lot of HP. He's also a lot slower. His damage is mildly different but now deals true, which is nice. Avarice, which unfortunately can't apply outside those attacks, at least has a decent reward now. His regular skills, especially Dragon Spawn, have been buffed, which he needed as an ult-dependent hero. Speaking of the ult, it has a longer cooldown and takes longer to deal damage. 
 
-[DOOM TANK]
--HP changed from 220 (+20) [400] to 200 (+30) [470]
--Armor changed from 6 (+6) [60] to 33% (+3%) [60%]
--Damage changed from 13-23 (+8.33, +15.66) [88-164] to 20-25 (+10, +12) [110-133]
--Damage area increased from 40 to 100
--Range increased to 400
--Spiky Slugs damage increased from 1 per tick to 5 per tick
--Spiky Slugs area increased from 60 to 90
--Ground Slam damage increased from 21-39/42-78/63-117 to 41-59/92-108/143-157
--Ground Slam stun duration increased from 2s to 3s
--HEAT Missiles
-	-Damage changed from 16-24/22-34/32-48 to 16-24/24-32/32-48
-	-Damage type changed to explosive
-	-Now deals damage in an area of 90
--Expendables
-	-Damage changed from 4-7/6-10/7-13 to 4-7/6-10/8-13
-	-Now have idle heal
-	-Ranged expendables will no longer shoot while moving
--Scorching Cannon
-	-Damage type changed to true
-	-Damage increased from 2/4/6 to 4/8/12
-	-Tick time decreased from 0.2s to 0.1s
-	-Cooldown decreased from 35/33/30s to 25s
--Call of the Valkyrie
-	-Cooldown increased from 60s to 100s
-	-Area increased from 40 to 100
-	-Tick time decreased from 0.2s to 0.1s
-	-Damage increased from 2/3/7/12 to 10/20/30/40
-	-Damage type changed from physical to true
+## DOOM TANK
+- HP changed from 220 (+20) [400] to 200 (+30) [470]
+- Armor changed from 6 (+6) [60] to 33% (+3%) [60%]
+- Damage changed from 13-23 (+8.33, +15.66) [88-164] to 20-25 (+10, +12) [110-133]
+- Damage area increased from 40 to 100
+- Range increased to 400
+- Spiky Slugs damage increased from 1 per tick to 5 per tick
+- Spiky Slugs area increased from 60 to 90
+- Ground Slam damage increased from 21-39/42-78/63-117 to 41-59/92-108/143-157
+- Ground Slam stun duration increased from 2s to 3s
+- HEAT Missiles
+	- Damage changed from 16-24/22-34/32-48 to 16-24/24-32/32-48
+	- Damage type changed to explosive
+	- Now deals damage in an area of 90
+- Expendables
+	- Damage changed from 4-7/6-10/7-13 to 4-7/6-10/8-13
+	- Now have idle heal
+	- Ranged expendables will no longer shoot while moving
+- Scorching Cannon
+	- Damage type changed to true
+	- Damage increased from 2/4/6 to 4/8/12
+	- Tick time decreased from 0.2s to 0.1s
+	- Cooldown decreased from 35/33/30s to 25s
+- Call of the Valkyrie
+	- Cooldown increased from 60s to 100s
+	- Area increased from 40 to 100
+	- Tick time decreased from 0.2s to 0.1s
+	- Damage increased from 2/3/7/12 to 10/20/30/40
+	- Damage type changed from physical to true
 
 The Tank's basic attack is now pretty decent and serves as good artillery support. Spiky Slugs is still bad but maybe it'll see some use. Otherwise, some minor damage buffs here and there, especially to Scorching Cannon. Call of the Valkyrie has a much longer cooldown but has been essentially restored to its super strong mobile version. 400 d/s go SHOOM
 
-[JUN'PAI]
--Melee damage decreased from 8-12 (+2.44, +3.55) [30-44] to 8-12 (+2,2) [26-30]
--Ranged damage increased from 8-12 (+2.44, +3.55) [30-44] to 15-25 (+5,5) [60-70]
--Ranged fire rate decreased from 1.1s to 2.5s
--Heal increment increased from 1s to 4s
--Heal increased to 40%
--Speed changed to 70
--Last Stand
-	-Activation decreased from 80% HP to 70% HP
-	-Bonus damage decreased from 50% to 30%
-	-Now affects allied units within range 120
--Banner of Courage
-	-Max allies increased from 8 to 16
-	-Range increased from 120 to 120/150/180
-	-Cooldown decreased from 12s to 10s
-	-Duration increased from 4/6/8s to 10s
-	-Healing decreased from 3/5/7 per tick to 3/4/5 per tick
-	-Is now uninterruptible
--Gaze of the Naga minimum units decreased from 3 to 1
--Gaze of the Naga is now uninterruptible
--Splash
-	-Damage decreased from 30/60/90 to 15/30/45
-	-Cooldown decreased from 9s to 3s
-	-Now offset from Jun'pai and centered around the trident
--Tidal Wave is now uninterruptible
--Terror damage reduced from 6/10/20/30 to 6/12/18/24
--Terror now slows by 25%
+## JUN'PAI
+- Melee damage decreased from 8-12 (+2.44, +3.55) [30-44] to 8-12 (+2,2) [26-30]
+- Ranged damage increased from 8-12 (+2.44, +3.55) [30-44] to 15-25 (+5,5) [60-70]
+- Ranged fire rate decreased from 1.1s to 2.5s
+- Heal increment increased from 1s to 4s
+- Heal increased to 40%
+- Speed changed to 70
+- Last Stand
+	- Activation decreased from 80% HP to 70% HP
+	- Bonus damage decreased from 50% to 30%
+	- Now affects allied units within range 120
+- Banner of Courage
+	- Max allies increased from 8 to 16
+	- Range increased from 120 to 120/150/180
+	- Cooldown decreased from 12s to 10s
+	- Duration increased from 4/6/8s to 10s
+	- Healing decreased from 3/5/7 per tick to 3/4/5 per tick
+	- Is now uninterruptible
+- Gaze of the Naga minimum units decreased from 3 to 1
+- Gaze of the Naga is now uninterruptible
+- Splash
+	- Damage decreased from 30/60/90 to 15/30/45
+	- Cooldown decreased from 9s to 3s
+	- Now offset from Jun'pai and centered around the trident
+- Tidal Wave is now uninterruptible
+- Terror damage reduced from 6/10/20/30 to 6/12/18/24
+- Terror now slows by 25%
 
 Jun'pai now has some interesting stuff going on. His Last Stand buff works not only when he is on low health, but when allies are as well, which may be useful. Splash now occurs much more often, and is properly offset to hit more targets. TFTD now slows, which it probably should've done in the first place.
 
-[EISKALT]
--HP decreased from 300 (+25) [525] to 160 (+10) [250]
--Armor decreased from 0% to -25% (takes +25% damage from physical attacks)
--Damage decreased 14-22 (+4.88, +7.11) [58-86] to 10-14 (+3,5) [37-59] 
--Speed decreased from 90 to 75
--Icy Breath slow decreased from 30% to 20%
--Frost Blast area decreased from 80/120/160 to 60/90/120
--Permafrost now deals 2 damage every 0.2s while on the ice
--Permafrost duration increased from 5s to 12s
--Avalanche cooldown increased from 18s to 24s
--Avalanche damage decreased from 8/16/24 per 0.25s to 5/10/15 per 0.25s
--Ice Peaks 
-	-Cooldown increased from 15s to 30s
-	-No longer slows
-	-Ice Peaks spike range increased from 55 to 60
-	-Peak pattern variance disabled
-	-Is now uninterruptible
--Glacial Storm duration changed from 3/4/8/12s to 3/6/9/12s
--Glacial Storm cooldown increased from 50s to 75s
+## EISKALT
+- HP decreased from 300 (+25) [525] to 160 (+10) [250]
+- Armor decreased from 0% to -25% (takes +25% damage from physical attacks)
+- Damage decreased 14-22 (+4.88, +7.11) [58-86] to 10-14 (+3,5) [37-59] 
+- Speed decreased from 90 to 75
+- Icy Breath slow decreased from 30% to 20%
+- Frost Blast area decreased from 80/120/160 to 60/90/120
+- Permafrost now deals 2 damage every 0.2s while on the ice
+- Permafrost duration increased from 5s to 12s
+- Avalanche cooldown increased from 18s to 24s
+- Avalanche damage decreased from 8/16/24 per 0.25s to 5/10/15 per 0.25s
+- Ice Peaks 
+	- Cooldown increased from 15s to 30s
+	- No longer slows
+	- Ice Peaks spike range increased from 55 to 60
+	- Peak pattern variance disabled
+	- Is now uninterruptible
+- Glacial Storm duration changed from 3/4/8/12s to 3/6/9/12s
+- Glacial Storm cooldown increased from 50s to 75s
 
 Eiskalt has been whacked over and over with the nerf bat and is only just learning his place. It took halving his health, giving him negative armor, lowering his stats in almost every way, and making Ice Peaks somewhat weaker to get here. And even then he's still really strong. 
 
-[MURGLUN]
--HP decreased from 320 (+25) [545] to 275 (+15) [410]
--Armor changed from 4 (+2) [22] to 20
--Damage decreased from 14-26 (+4.22, +7.77) [52-96] to 14-21 (+3,5) [41-65]
--Murglun's basic attack deals true damage
--Speed decreased from 90 to 60
--Lava Blood interval changed from 0.3-0.6 to a fixed 0.5
--Lava Pool
-	-Damage decreased from 2/4/6 to 1/2/3
-	-Duration decreased from 5/5/6 to 4/5/6
-	-Area increased from 50 to 75
--Eruption
-	-Renamed Geyser to Eruption
-	-Cooldown decreased from 70/60/50s to 56/48/40s
-	-Is now uninterruptible
--Infernal Heat now slows by 0/20/40%
--Infernal Heat cooldown changed from 22/18/14s to 16s
--Tar Maker damage buff decreased from 5/10/20 to 5/10/15
--Volcanic Barrage damage area increased from 50 to 100 (matches instakill area)
+## MURGLUN
+- HP decreased from 320 (+25) [545] to 275 (+15) [410]
+- Armor changed from 4 (+2) [22] to 20
+- Damage decreased from 14-26 (+4.22, +7.77) [52-96] to 14-21 (+3,5) [41-65]
+- Murglun's basic attack deals true damage
+- Speed decreased from 90 to 60
+- Lava Blood interval changed from 0.3-0.6 to a fixed 0.5
+- Lava Pool
+	- Damage decreased from 2/4/6 to 1/2/3
+	- Duration decreased from 5/5/6 to 4/5/6
+	- Area increased from 50 to 75
+- Eruption
+	- Renamed Geyser to Eruption
+	- Cooldown decreased from 70/60/50s to 56/48/40s
+	- Is now uninterruptible
+- Infernal Heat now slows by 0/20/40%
+- Infernal Heat cooldown changed from 22/18/14s to 16s
+- Tar Maker damage buff decreased from 5/10/20 to 5/10/15
+- Volcanic Barrage damage area increased from 50 to 100 (matches instakill area)
 
 Murglun is probably the least touched of the dragons, with some minor buffs even, wow. True damage, bigger lava pools, infernal heat slows. Pretty nice. May need to nerf further though, she is a dragon after all.
 
-[DIANYUN]
--Changed skills costs to better reflect power levels
--Removed all minimum ranges
--Increased speed from 42 to 55
--Lightning Strike targets increased from 4/6/7 to 5/6/7
--Lightning Strike now reduces enemy damage by 20/40/60% for 6 seconds
--Divine Rain 
-	-Healing per tick increased from 4/8/12 to 8/16/24
-	-Area of effect increased from 100 to 150
-	-Now grants an extra 20 armor and magic resist for the duration in addition to healing
-	-Cooldown increased from 15s to 20s
--Son of the Storm
-	-Shots changed from 3/5/10/15 to 3/6/9/12
+##DIANYUN
+- Changed skills costs to better reflect power levels
+- Removed all minimum ranges
+- Increased speed from 42 to 55
+- Lightning Strike targets increased from 4/6/7 to 5/6/7
+- Lightning Strike now reduces enemy damage by 20/40/60% for 6 seconds
+- Divine Rain 
+	- Healing per tick increased from 4/8/12 to 8/16/24
+	- Area of effect increased from 100 to 150
+	- Now grants an extra 20 armor and magic resist for the duration in addition to healing
+	- Cooldown increased from 15s to 20s
+- Son of the Storm
+	- Shots changed from 3/5/10/15 to 3/6/9/12
 
 I thought making Dianyun more barracks-support oriented would be an interesting idea for a dragon. As such, he's gained more support tools to encourage that. He also got a number of QOL changes.
 
-[JACK O'LANTERN]
--HP increased from 175 (+17.55) [333] to 175 (+25) [400]
--Armor decreased from 5% (+4%) [41] to 0
--Damage increased from 12-20 (+3.55, +6.55) [44-79] to 14-27 (+4,+7) [50-90]
--Respawn decreased from 20s to 15s
--Explosive Head damage increased from 30/60/100 to 33/67/100
--Jack's Explosive Head deals explosive damage
--Haunted Blade
-	-Now deals true damage
-	-Damage changed from 50-90 to 20-30/45-60/70-90
-	-Cooldown increased from 16/8/4 to 16s
-	-Also removes armor
--Ghoul duration increased from 20s to 25s
--Nightmare damage decreased from 12/20/40/60 to 12/24/36/48 per tick
--Nightmare speed decreased from 90 to 80
+## JACK O'LANTERN
+- HP increased from 175 (+17.55) [333] to 175 (+25) [400]
+- Armor decreased from 5% (+4%) [41] to 0
+- Damage increased from 12-20 (+3.55, +6.55) [44-79] to 14-27 (+4,+7) [50-90]
+- Respawn decreased from 20s to 15s
+- Explosive Head damage increased from 30/60/100 to 33/67/100
+- Jack's Explosive Head deals explosive damage
+- Haunted Blade
+	- Now deals true damage
+	- Damage changed from 50-90 to 20-30/45-60/70-90
+	- Cooldown increased from 16/8/4 to 16s
+	- Also removes armor
+- Ghoul duration increased from 20s to 25s
+- Nightmare damage decreased from 12/20/40/60 to 12/24/36/48 per tick
+- Nightmare speed decreased from 90 to 80
 
 Jack is mostly the same as in the base game, playstyle wise. His stats now mimic KRF before hero upgrades are applied. Haunted Blade removing armor is a nice usability bonus, and his ult now moves slower to catch more units in it. Show him a good time, eh?
 
 
-----------[ENEMIES]----------
+# ENEMIES
 
-[GENERAL]
+## GENERAL
 -All ranged units will no longer attack from offscreen
 
 Note: Damage is listed as an average. Assume any changes made preserve the original variance.
 
-[DWARVES]
--Bruiser HP increased from 30 to 40
--Bruiser damage increased from 3 to 4
--Bruiser bounty increased from 3 to 4
--Guard HP increased from 70 to 100
--Guard damage increased from 6 to 7
--Spider HP increased from 40 to 50
--Spider gains 30% magic resist
--Spider bounty increased from 3 to 6
--Chomp Bot HP increased from 120 to 160
--Chomp Bot armor increased from 30 to 50
--Cyclopter HP increased from 40 to 100
--Cyclopter bounty increased from 6 to 14
--Cyclopter speed lowered from 55 to 45
--Tinbeard HP increased from 120 to 160
--Tinbeard damage increased from 13 to 18
--Tinbeard gains 20% magic resist
--Tinbeard bounty increased from 12 to 15
--Tinbeard melee cooldown decreased from 2 to 1
--Smokebeard HP increased from 240 to 450
--Smokebeard loses all armor (40%)
--Smokebeard lives increased from 1 to 2
--Smokebeard speed decreased from 36 to 33
--Smokebeard bounty increased from 24 to 35
--Alchemist HP increased from 160 to 750
--Alchemist magic resist decreased from 80% to 60%
--Alchemist lives increased from 1 to 2
--Alchemist bounty increased from 16 to 75
--Quarry HP decreased from 80 to 75
--Quarry digging special cooldown increased from 1s to 3s
+## DWARVES
+- Bruiser HP increased from 30 to 40
+- Bruiser damage increased from 3 to 4
+- Bruiser bounty increased from 3 to 4
+- Guard HP increased from 70 to 100
+- Guard damage increased from 6 to 7
+- Spider HP increased from 40 to 50
+- Spider gains 30% magic resist
+- Spider bounty increased from 3 to 6
+- Chomp Bot HP increased from 120 to 160
+- Chomp Bot armor increased from 30 to 50
+- Cyclopter HP increased from 40 to 100
+- Cyclopter bounty increased from 6 to 14
+- Cyclopter speed lowered from 55 to 45
+- Tinbeard HP increased from 120 to 160
+- Tinbeard damage increased from 13 to 18
+- Tinbeard gains 20% magic resist
+- Tinbeard bounty increased from 12 to 15
+- Tinbeard melee cooldown decreased from 2 to 1
+- Smokebeard HP increased from 240 to 450
+- Smokebeard loses all armor (40%)
+- Smokebeard lives increased from 1 to 2
+- Smokebeard speed decreased from 36 to 33
+- Smokebeard bounty increased from 24 to 35
+- Alchemist HP increased from 160 to 750
+- Alchemist magic resist decreased from 80% to 60%
+- Alchemist lives increased from 1 to 2
+- Alchemist bounty increased from 16 to 75
+- Quarry HP decreased from 80 to 75
+- Quarry digging special cooldown increased from 1s to 3s
 -Stonebeard lives increased from 2 to 3
--Mechadwarf HP increased from 1200 to 1800
--Mechadwarf armor decreased from 70 to 60
--Mechadwarf damage increased from 40-60 to 80-100
--Mechadwarf special damage increased from 80 to 200
--Mechadwarf lives increased from 3 to 5
--Mechadwarf bounty increased from 80 to 95
--Bolgur/Rurin gold steal requirement decreased from 1000 to 500
--Bolgur/Rurin gold steal amount increased from 10 to 100
--Bolgur/Rurin HP increased from 7000 to 8000
--Bolgur/Rurin gains 30% armor
--Bolgur/Rurin missile special cooldown decreased from 25s to 15s
+- Mechadwarf HP increased from 1200 to 1800
+- Mechadwarf armor decreased from 70 to 60
+- Mechadwarf damage increased from 40-60 to 80-100
+- Mechadwarf special damage increased from 80 to 200
+- Mechadwarf lives increased from 3 to 5
+- Mechadwarf bounty increased from 80 to 95
+- Bolgur/Rurin gold steal requirement decreased from 1000 to 500
+- Bolgur/Rurin gold steal amount increased from 10 to 100
+- Bolgur/Rurin HP increased from 7000 to 8000
+- Bolgur/Rurin gains 30% armor
+- Bolgur/Rurin missile special cooldown decreased from 25s to 15s
 
-[NORTHERNERS]
--Wildling HP increased from 125 to 250
--Wildling armor decreased from 20 to 15
--Wildling bounty increased from 12 to 14
--Huntress HP increased from 140 to 160
--Huntress bounty increased from 10 to 11
--Glacial Wolf HP increased from 110 to 225
--Glacial Wolf bounty increased from 10 to 20
--Glacial Wolf death freeze changed to always activate
--Glacial Wolf death freeze range increased from 60 to 100
--Glacial Wolf death freeze duration decreased from 2s to 1s
--Wyvern HP increased from 100 to 120
--Berserker HP increased from 450 to 600
--Berserker damage increased from 18 to 21
--Berserker lives increased from 1 to 2
--Berserker bounty increased from 30 to 40
--Warbear HP increased from 750 to 1800
--Warbear armor decreased from 60 to 20
--Warbear lives increased from 2 to 3
--Warbear bounty increased from 65 to 75
--Stalker bounty decreased from 40 to 36
--Ice Witch HP increased from 250 to 450
--Ice Witch lives increased from 1 to 2
--Ice Witch damage changed from 38-52 to 40-50
--Ice Witch melee attack rate increased from 1.5s to 1s
--Ice Witch bounty decreased from 50 to 40
--Leap Dragon HP increased from 220 to 400
--Leap Dragon armor decreased from 40 to 25
--Leap Dragon bounty increased from 20 to 27
--Leap Dragon jump safe nodes doubled from 40 to 80
--Leap Dragon jump cooldown increased from 5 to 7
--Leap Dragon jump speed decreased from 1.8 to 1.5
--Valkyrie HP increased from 400 to 1000
--Valkyrie armor decreased from 70 to 60
--Valkyrie lives increased from 1 to 3
--Valkyrie bounty increased from 35 to 65
--Valkyrie resurrect cooldown increased from 1s to 6s
--Valkyrie resurrect max targets increased from 3 to 5
--Draugr HP increased from 150 to 250
--Draugr magic resist decreased from 80 to 60
--Svell Druid HP increased from 550 to 1200
--Svell Druid lives increased from 2 to 3
--Svell Druid bounty increased from 50 to 90
--Frost Giant HP increased from 1400 to 2500
--Frost Giant armor decreased from 60 to 50
--Frost Giant bounty increased from 90 to 100
--Frost Giant lives increased from 3 to 5
--Arkuz/Ingvar Axe Rain delay increased from 1.5s to 3s
--Arkuz/Ingvar Axe Rain damage increased from 20-25 to 25-35
--Arkuz/Ingvar Axe Rain damage area decreased from 80 to 60
--Arkuz/Ingvar Axe Rain damage type changed from true to physical
--Arkuz/Ingvar Dragon freeze chance increased to 100%
--Arkuz/Ingvar Dragon freeze duration decreased to 1s
+## NORTHERNERS
+- Wildling HP increased from 125 to 250
+- Wildling armor decreased from 20 to 15
+- Wildling bounty increased from 12 to 14
+- Huntress HP increased from 140 to 160
+- Huntress bounty increased from 10 to 11
+- Glacial Wolf HP increased from 110 to 225
+- Glacial Wolf bounty increased from 10 to 20
+- Glacial Wolf death freeze changed to always activate
+- Glacial Wolf death freeze range increased from 60 to 100
+- Glacial Wolf death freeze duration decreased from 2s to 1s
+- Wyvern HP increased from 100 to 120
+- Berserker HP increased from 450 to 600
+- Berserker damage increased from 18 to 21
+- Berserker lives increased from 1 to 2
+- Berserker bounty increased from 30 to 40
+- Warbear HP increased from 750 to 1800
+- Warbear armor decreased from 60 to 20
+- Warbear lives increased from 2 to 3
+- Warbear bounty increased from 65 to 75
+- Stalker bounty decreased from 40 to 36
+- Ice Witch HP increased from 250 to 450
+- Ice Witch lives increased from 1 to 2
+- Ice Witch damage changed from 38-52 to 40-50
+- Ice Witch melee attack rate increased from 1.5s to 1s
+- Ice Witch bounty decreased from 50 to 40
+- Leap Dragon HP increased from 220 to 400
+- Leap Dragon armor decreased from 40 to 25
+- Leap Dragon bounty increased from 20 to 27
+- Leap Dragon jump safe nodes doubled from 40 to 80
+- Leap Dragon jump cooldown increased from 5 to 7
+- Leap Dragon jump speed decreased from 1.8 to 1.5
+- Valkyrie HP increased from 400 to 1000
+- Valkyrie armor decreased from 70 to 60
+- Valkyrie lives increased from 1 to 3
+- Valkyrie bounty increased from 35 to 65
+- Valkyrie resurrect cooldown increased from 1s to 6s
+- Valkyrie resurrect max targets increased from 3 to 5
+- Draugr HP increased from 150 to 250
+- Draugr magic resist decreased from 80 to 60
+- Svell Druid HP increased from 550 to 1200
+- Svell Druid lives increased from 2 to 3
+- Svell Druid bounty increased from 50 to 90
+- Frost Giant HP increased from 1400 to 2500
+- Frost Giant armor decreased from 60 to 50
+- Frost Giant bounty increased from 90 to 100
+- Frost Giant lives increased from 3 to 5
+- Arkuz/Ingvar Axe Rain delay increased from 1.5s to 3s
+- Arkuz/Ingvar Axe Rain damage increased from 20-25 to 25-35
+- Arkuz/Ingvar Axe Rain damage area decreased from 80 to 60
+- Arkuz/Ingvar Axe Rain damage type changed from true to physical
+- Arkuz/Ingvar Dragon freeze chance increased to 100%
+- Arkuz/Ingvar Dragon freeze duration decreased to 1s
 
-[LINIREANS]
--Recruit HP increased from 200 to 250
--Recruit damage increased from 16 to 20
--Recruit bounty increased from 16 to 18
--Footman HP increased from 270 to 350
--Footman damage increased from 20 to 25
--Watchdog HP increased from 80 to 240
--Watchdog bounty increased from 12 to 16
--Captain HP increased from 500 to 800
--Captain armor decreased from 70 to 60
--Captain bounty increased from 36 to 40
--Captain lives increased from 1 to 2
--Hunting Eagle HP increased from 90 to 100
--Ranger HP increased from 300 to 420
--Ranger bounty increased from  to 25
--Priestess HP increased from 250 to 540
--Priestess damage increased from 8-12 to 11-32  
--Priestess magic res increased from 50 to 75
--Priestess damage increased from 3 to 10
--Priestess damage type changed to magical
--Priestess bounty decreased from 45 to 30
--Gryphon HP increased from 280 to 330
--Gryphon gains 50% magic resist
--Gryphon lives increased from 1 to 2
--Alleria's damage was buffed a bit
--Alleria bounty decreased from 300 to 150
--Alleria Ranger spawn cooldown decreased from 20s to 16s
--Arcane lives increased from 1 to 2
--Arcane bounty decreased from 60 to 42
--Sorcerer HP increased from 1750 to 2500
--Sorcerer armor increased from 60% to 75%
--Sorcerer lives increased from 2 to 5
--Sorcerer damage increased from 75 to 100
--Sorcerer attack rate increased from 1s to 1.5s
--Sorcerer bounty increased from 120 to 135
--Shieldbearer HP increased from 1000 to 1500
--Shieldbearer loses all armor (90)
--Shieldbearer gains 90% magic resist
--Shieldbearer drop on melee decreased from -90 to -40
--Shieldbearer bounty decreased from 80 to 60
--Paladin HP increased from 750 to 1200
--Paladin loses all magic resist (60)
--Paladin gains 75% armor
--Paladin lives increased from 1 to 2
--Paladin bounty increased from 50 to 80
--Paladin melee attack rate increased from 1s to 1.47s
--Paladin special attack damage increased from 70-90 to 75-135
--Increased search radius for Footman and Paladin to upgrade
--Golem House HP increased from 2000 to 4000
--Golem House lives increased from 3 to 6
--Golem House damage increased from 90 to 160
--Golem House bounty increased from 150 to 250
--Golem House gains area damage
--Golem House gains miniboss status
--Cavalier HP increased from 220 to 400
--Cavalier gains 40% magic resist
--Cavalier lives increased from 2 to 3
--Cavalier bounty increased from 20 to 35
--Cavalier charge cooldown increased to 8s
--Cavalier charge duration increased to 3s
--Cavalier charge speed modifier increased to 2.5
--Musketeer HP increased from 180 to 200
--Musketeer special attack range increased from 210-650 to 470-705
--Musketeer special attack damage increased from 90-120 to 200-300
--Musketeer special cooldown increased from 5 to 7s
--Musketeer ranged attack range increased from 200 to 450
--Musketeer ranged attack cooldown increased from 1.2 to 1.5
--Gerald HP increased from 7000 to 10000
--Gerald armor increased from 70 to 80
--Gerald healing increased from 100/300 to 1000/3000
--War Wagon HP increased from 800 to 1000
--War Wagon now deals 10 damage a second to units it passes over
--War Wagon spawn cooldown decreased by 6 seconds
--Paragon HP increased from 4500 to 6000
--Paragon armor decreased from 60% to 50%
--Paragon magic resist increased from 40% to 50%
+## LINIREANS
+- Recruit HP increased from 200 to 250
+- Recruit damage increased from 16 to 20
+- Recruit bounty increased from 16 to 18
+- Footman HP increased from 270 to 350
+- Footman damage increased from 20 to 25
+- Watchdog HP increased from 80 to 240
+- Watchdog bounty increased from 12 to 16
+- Captain HP increased from 500 to 800
+- Captain armor decreased from 70 to 60
+- Captain bounty increased from 36 to 40
+- Captain lives increased from 1 to 2
+- Hunting Eagle HP increased from 90 to 100
+- Ranger HP increased from 300 to 420
+- Ranger bounty increased from  to 25
+- Priestess HP increased from 250 to 540
+- Priestess damage increased from 8-12 to 11-32  
+- Priestess magic res increased from 50 to 75
+- Priestess damage increased from 3 to 10
+- Priestess damage type changed to magical
+- Priestess bounty decreased from 45 to 30
+- Gryphon HP increased from 280 to 330
+- Gryphon gains 50% magic resist
+- Gryphon lives increased from 1 to 2
+- Alleria's damage was buffed a bit
+- Alleria bounty decreased from 300 to 150
+- Alleria Ranger spawn cooldown decreased from 20s to 16s
+- Arcane lives increased from 1 to 2
+- Arcane bounty decreased from 60 to 42
+- Sorcerer HP increased from 1750 to 2500
+- Sorcerer armor increased from 60% to 75%
+- Sorcerer lives increased from 2 to 5
+- Sorcerer damage increased from 75 to 100
+- Sorcerer attack rate increased from 1s to 1.5s
+- Sorcerer bounty increased from 120 to 135
+- Shieldbearer HP increased from 1000 to 1500
+- Shieldbearer loses all armor (90)
+- Shieldbearer gains 90% magic resist
+- Shieldbearer drop on melee decreased from -90 to -40
+- Shieldbearer bounty decreased from 80 to 60
+- Paladin HP increased from 750 to 1200
+- Paladin loses all magic resist (60)
+- Paladin gains 75% armor
+- Paladin lives increased from 1 to 2
+- Paladin bounty increased from 50 to 80
+- Paladin melee attack rate increased from 1s to 1.47s
+- Paladin special attack damage increased from 70-90 to 75-135
+- Increased search radius for Footman and Paladin to upgrade
+- Golem House HP increased from 2000 to 4000
+- Golem House lives increased from 3 to 6
+- Golem House damage increased from 90 to 160
+- Golem House bounty increased from 150 to 250
+- Golem House gains area damage
+- Golem House gains miniboss status
+- Cavalier HP increased from 220 to 400
+- Cavalier gains 40% magic resist
+- Cavalier lives increased from 2 to 3
+- Cavalier bounty increased from 20 to 35
+- Cavalier charge cooldown increased to 8s
+- Cavalier charge duration increased to 3s
+- Cavalier charge speed modifier increased to 2.5
+- Musketeer HP increased from 180 to 200
+- Musketeer special attack range increased from 210-650 to 470-705
+- Musketeer special attack damage increased from 90-120 to 200-300
+- Musketeer special cooldown increased from 5 to 7s
+- Musketeer ranged attack range increased from 200 to 450
+- Musketeer ranged attack cooldown increased from 1.2 to 1.5
+- Gerald HP increased from 7000 to 10000
+- Gerald armor increased from 70 to 80
+- Gerald healing increased from 100/300 to 1000/3000
+- War Wagon HP increased from 800 to 1000
+- War Wagon now deals 10 damage a second to units it passes over
+- War Wagon spawn cooldown decreased by 6 seconds
+- Paragon HP increased from 4500 to 6000
+- Paragon armor decreased from 60% to 50%
+- Paragon magic resist increased from 40% to 50%
 
-[ANURIANS]
--Chaser HP increased from 180 to 300
--Chaser armor decreased from 50 to 30
--Chaser jump range decreased from 90 to 75
--Chaser speed increased from 26 to 30
--Warden HP increased from 600 to 1000
--Warden lives increased from 1 to 2
--Warden bounty decreased from 55 to 50
--Amphiptere bounty increased from 7 to 8
--Infuser HP increased from 250 to 400
--Infuser magic resist increased from 60 to 70
--Infuser Warden shield HP increased from 200 to 250
--Infuser no longers charges the crystals
--Infuser safe nodes to exit for Amphiptere speed boost reduced from 100 to 80
--Channeler HP increased from 300 to 450
--Channeler bounty increased from 25 to 30
--Channeler bonus damage to Erudites increased from 80-120 to 84-128
--Channeler now grants 5 HP/s regen to Chasers
--Channeler speed decreased from 33 to 30
--Erudite HP increased from 500 to 1000
--Demolisher HP increased from 1400 to 4000
--Demolisher damage decreased from 135-240 to 120-180
--Demolisher basic attack deals area damage
--Demolisher lives increased from 2 to 5
--Demolisher death explosion damage increased from 300 to 500
--Demolisher death explosion range increased from 120 to 160
--Demolisher death explosion max units increased from 5 to infinite
--Demolisher bounty increased from 80 to 100
--Polyx HP increased from 7000 to 13000
--Polyx gains 30% magic resist
--New Enemy: Anurian Fodder
+## ANURIANS
+- Chaser HP increased from 180 to 300
+- Chaser armor decreased from 50 to 30
+- Chaser jump range decreased from 90 to 75
+- Chaser speed increased from 26 to 30
+- Warden HP increased from 600 to 1000
+- Warden lives increased from 1 to 2
+- Warden bounty decreased from 55 to 50
+- Amphiptere bounty increased from 7 to 8
+- Infuser HP increased from 250 to 400
+- Infuser magic resist increased from 60 to 70
+- Infuser Warden shield HP increased from 200 to 250
+- Infuser no longers charges the crystals
+- Infuser safe nodes to exit for Amphiptere speed boost reduced from 100 to 80
+- Channeler HP increased from 300 to 450
+- Channeler bounty increased from 25 to 30
+- Channeler bonus damage to Erudites increased from 80-120 to 84-128
+- Channeler now grants 5 HP/s regen to Chasers
+- Channeler speed decreased from 33 to 30
+- Erudite HP increased from 500 to 1000
+- Demolisher HP increased from 1400 to 4000
+- Demolisher damage decreased from 135-240 to 120-180
+- Demolisher basic attack deals area damage
+- Demolisher lives increased from 2 to 5
+- Demolisher death explosion damage increased from 300 to 500
+- Demolisher death explosion range increased from 120 to 160
+- Demolisher death explosion max units increased from 5 to infinite
+- Demolisher bounty increased from 80 to 100
+- Polyx HP increased from 7000 to 13000
+- Polyx gains 30% magic resist
+- New Enemy: Anurian Fodder
 
-[FORCES OF WINTER]
--Gold-Draugr bounty decreased from 10 to 5
--Snow Golem HP increased from 2500 to 5000
--Snow Golem armor decreased from 20 to 0
--Snow Golem lives increased from 2 to 3
--Snow Golem bounty increased from 25 to 50
--Frozen Heart lives increased from 1 to 2
--Frozen Heart speed increased from 13 to 16
--Frozen Heart HP increased from 1000 to 1500
--Frozen Soul armor increased from 85 to 100
--Frozen Soul revive cooldown increased from 8s to 10s
--Frozen Soul no longer immune to modifiers, except for fear and possession
--Ice Reaper HP increased from 450 to 600
--Ice Reaper loses all magic resist (60%)
--Ice Reaper gains 50% armor
--Ice Reaper speed decreased from 50 to 40
--Ice Reaper bounty decreased from 55 to 40
--Winter Lord HP increased from 900 to 1500
--Winter Lord armor/magic resist increased from 85 to 100
--Winter Lord lives increased from 1 to 3
--Winter Lord damage increased from 60 to 90
--Winter Lord armor switch cooldown decreased from 15s to 10s
--Winter Queen/Elora HP increased from 4000 to 9000
--Winter Queen/Elora gains 50% armor
--Winter Queen/Elora freeze cooldown increased from 6s to 8s
--Winter Queen/Elora now summons Ice Reapers when killing units rather than Apex Shards
--New Enemy: Elite Frost Giant
+## FORCES OF WINTER
+- Gold-Draugr bounty decreased from 10 to 5
+- Snow Golem HP increased from 2500 to 5000
+- Snow Golem armor decreased from 20 to 0
+- Snow Golem lives increased from 2 to 3
+- Snow Golem bounty increased from 25 to 50
+- Frozen Heart lives increased from 1 to 2
+- Frozen Heart speed increased from 13 to 16
+- Frozen Heart HP increased from 1000 to 1500
+- Frozen Soul armor increased from 85 to 100
+- Frozen Soul revive cooldown increased from 8s to 10s
+- Frozen Soul no longer immune to modifiers, except for fear and possession
+- Ice Reaper HP increased from 450 to 600
+- Ice Reaper loses all magic resist (60%)
+- Ice Reaper gains 50% armor
+- Ice Reaper speed decreased from 50 to 40
+- Ice Reaper bounty decreased from 55 to 40
+- Winter Lord HP increased from 900 to 1500
+- Winter Lord armor/magic resist increased from 85 to 100
+- Winter Lord lives increased from 1 to 3
+- Winter Lord damage increased from 60 to 90
+- Winter Lord armor switch cooldown decreased from 15s to 10s
+- Winter Queen/Elora HP increased from 4000 to 9000
+- Winter Queen/Elora gains 50% armor
+- Winter Queen/Elora freeze cooldown increased from 6s to 8s
+- Winter Queen/Elora now summons Ice Reapers when killing units rather than Apex Shards
+- New Enemy: Elite Frost Giant
 
-[CHINESE CREATURES]
--Mogwai should now function like Legion and Gloomy
--Mogwai HP increased from 40 to 50
--Nian HP increased from 800 to 900
--Nian bounty decreased from 90 to 80
--Carnival Dragon head HP increased from 850 to 1200
--Carnival Dragon body HP increased from 400 to 650
--Carnival Dragon is no longer immune to all modifiers
--Dragon King HP increased from 8000 to 35000
--New Enemy: Cannoneer
--New Enemy: Elite Ranger
+## CHINESE CREATURES
+- Mogwai should now function like Legion and Gloomy
+- Mogwai HP increased from 40 to 50
+- Nian HP increased from 800 to 900
+- Nian bounty decreased from 90 to 80
+- Carnival Dragon head HP increased from 850 to 1200
+- Carnival Dragon body HP increased from 400 to 650
+- Carnival Dragon is no longer immune to all modifiers
+- Dragon King HP increased from 8000 to 35000
+- New Enemy: Cannoneer
+- New Enemy: Elite Ranger
 
-[HALLOWEEN]
--Ghost HP increased from 110 to 115
--Ghost bounty decreased from 16 to 15
--Ghost no longer immune to modifiers, except for fear and possession
--Haunted Skeleton HP increased from 140 to 325
--Haunted Skeleton bounty increased from 22 to 23
--Haunted Skeleton death damage multiplier increased from 1.02 to 1.1
--Werewolf HP increased from 560 to 700
--Werewolf lives increased from 1 to 2
--Werewolf speed increased from 50 to 51
--Werewolf bounty increased from 35 to 40
--Bone Carrier HP increased from 1400 to 2500
--Bone Carrier armor increased from 80 to 95
--Bone Carrier speed increased from 15 to 16
--Bone Carrier lives increased from 2 to 5
--Bone Carrier bounty decreased from 95 to 90
--Screecher Bat now has a screech sound
--Corrosive Soul HP decreased from 700 to 600
--Corrosive Soul armor increased from 50 to 70
--Corrosive Soul lives increased from 1 to 2
--Corrosive Soul bounty decreased from 70 to 50
--Lich HP increased from 400 to 700
--Lich lives increased from 2 to 3
--Lich bounty decreased from 85 to 65
--Lich melee damage decreased from 40-70 to 10-20
--Lich melee attack rate increased from 2.0s to 1.0s
--Lich summon count increased from 1 to 2
--Lich summon now has a sound effect
--Ancient Ghost HP increased from 3000 to 5000
--New Enemy: Mummy
--New Enemy: Disciple of Set
-
-
-----------[SPELLS AND UPGRADES]----------
-
-[UPGRADES]
--Runes of Power chance increased from 10% to 15%
--Goblin Targeting range buff increased from 5% to 10%
--War Rations HP buff decreased from 30% to 25%
--Deathray Coils damage decreased from 150-300 to 150-200
--Deathray Coils cooldown decreased from 300s to 120s
--Second Wind chance increased from 10% to 20%
--Shield of Protection chance increased from 10% to 30%
-
-[REINFORCEMENTS]
--Reinforcement cooldown decreased from 14s to 10s
--Goonie lifetime increased from 12s to 20s
--Goonie death damage increased from 20 to 30
--Trained Goonie HP increased from 60 to 75
--Trained Goonie death increased from 20 to 40
--Guard lifetime increased from 12s to 30s
--Guard armor increased from 20% to 30%
--Guard damage increased from 4-8 to 6-10
--Guard death damage increased from 10 to 50
--Infernal Nova death damage increased from 40 to 100
--Trident lifetime increased from 16s to 20s
--Trident death damage increased from 20 to 40
--Trident HP decreased from 120 to 100
--Trident armor decreased from 10 to 0
--Trident ranged damage increased from 3-6 to 13-16
--Trident burn damage increased from 10 to 15
--Trident burn damage type changed to true
--Trident burn duration decreased from 2s to 1.5s
--Burning Trident ranged damage increased from 10-14 to 20-28
--Pit Lord chance increased to 100%
--Pit Lord lifetime increased from 16s to 20s
--Pit Lord HP decreased from 220 to 200
--Pit Lord loses all armor (20)
--Pit Lord melee attack rate increased from 2s to 1.2s
--Pit Lord melee damage type changed to true
--Pit Lord melee damage decreased from 17-33 to 10-30
--Pit Lord ranged attack damage decreased from 33-66 to 30-60
--Pit Lord ranged damage type changed to explosive
--Pit Lord death damage increased from 50 to 75
-
-[SOUL IMPACT]
--Impact damage increased from 25-55 to 75-100
--Extra Impacts grants +2 impacts, from +1
--Soul Shockwave stun duration increased from 0.4s to 1.5s
--Soul Shockwave cost increased from 1 to 2 souls
--Spectre damage increased from 7-22 to 30-45
--Spectre quantity increased from 2 to 4
--Extra Spectres quantity increased from 4 to 8
--Spectre slow increased from 50% to 75%
--Spectre slow duration increased from 2s to 5s
--Feast cooldown reduction decreased from 2s per kill to 0s per kill
--Feast cost decreased from 1 to 0 souls
--Soul Echoes chance increased from 25% to 50%
--Tornado of Souls extra impacts increased from 2 to 4
+## HALLOWEEN
+- Ghost HP increased from 110 to 115
+- Ghost bounty decreased from 16 to 15
+- Ghost no longer immune to modifiers, except for fear and possession
+- Haunted Skeleton HP increased from 140 to 325
+- Haunted Skeleton bounty increased from 22 to 23
+- Haunted Skeleton death damage multiplier increased from 1.02 to 1.1
+- Werewolf HP increased from 560 to 700
+- Werewolf lives increased from 1 to 2
+- Werewolf speed increased from 50 to 51
+- Werewolf bounty increased from 35 to 40
+- Bone Carrier HP increased from 1400 to 2500
+- Bone Carrier armor increased from 80 to 95
+- Bone Carrier speed increased from 15 to 16
+- Bone Carrier lives increased from 2 to 5
+- Bone Carrier bounty decreased from 95 to 90
+- Screecher Bat now has a screech sound
+- Corrosive Soul HP decreased from 700 to 600
+- Corrosive Soul armor increased from 50 to 70
+- Corrosive Soul lives increased from 1 to 2
+- Corrosive Soul bounty decreased from 70 to 50
+- Lich HP increased from 400 to 700
+- Lich lives increased from 2 to 3
+- Lich bounty decreased from 85 to 65
+- Lich melee damage decreased from 40-70 to 10-20
+- Lich melee attack rate increased from 2.0s to 1.0s
+- Lich summon count increased from 1 to 2
+- Lich summon now has a sound effect
+- Ancient Ghost HP increased from 3000 to 5000
+- New Enemy: Mummy
+- New Enemy: Disciple of Set
 
 
-----------[LEVELS]----------
--Levels 1-22, and 25-27 have a new campaign mode
--Levels 14-22 and 26 have a new heroic mode
--Levels 14-22 and 26-27 have a new iron mode
--Two wave indicators have been swapped on level 11.
--Bolgur's Throne renamed to Rurin's Throne
--Northerner's Outpost renamed to Frontier Garrison
--Breaking the Ice renamed to Gumico Mountains
--Into the Mountains renamed to Iravocti Glacier
--Ancient Gate renamed to The Ancient Gate
--City of Rivers renamed to The City of Rivers
--Dragon's Power renamed to The Dragon King's Lair
--Back to the Rotten Forest renamed to Haunted Forest
--A Night in the Swamp renamed to The Accursed Mire
--Ancient Ghosts renamed to Ruins of Castle Blackburn
--Dragon's Boneyard Snowstorm no longer freezes units
--Levels 9, 10, 20-28 have received extra tower spots.
+# SPELLS AND UPGRADES
+
+## UPGRADES
+- Runes of Power chance increased from 10% to 15%
+- Goblin Targeting range buff increased from 5% to 10%
+- War Rations HP buff decreased from 30% to 25%
+- Deathray Coils damage decreased from 150-300 to 150-200
+- Deathray Coils cooldown decreased from 300s to 120s
+- Second Wind chance increased from 10% to 20%
+- Shield of Protection chance increased from 10% to 30%
+
+## REINFORCEMENTS
+- Reinforcement cooldown decreased from 14s to 10s
+- Goonie lifetime increased from 12s to 20s
+- Goonie death damage increased from 20 to 30
+- Trained Goonie HP increased from 60 to 75
+- Trained Goonie death increased from 20 to 40
+- Guard lifetime increased from 12s to 30s
+- Guard armor increased from 20% to 30%
+- Guard damage increased from 4-8 to 6-10
+- Guard death damage increased from 10 to 50
+- Infernal Nova death damage increased from 40 to 100
+- Trident lifetime increased from 16s to 20s
+- Trident death damage increased from 20 to 40
+- Trident HP decreased from 120 to 100
+- Trident armor decreased from 10 to 0
+- Trident ranged damage increased from 3-6 to 13-16
+- Trident burn damage increased from 10 to 15
+- Trident burn damage type changed to true
+- Trident burn duration decreased from 2s to 1.5s
+- Burning Trident ranged damage increased from 10-14 to 20-28
+- Pit Lord chance increased to 100%
+- Pit Lord lifetime increased from 16s to 20s
+- Pit Lord HP decreased from 220 to 200
+- Pit Lord loses all armor (20)
+- Pit Lord melee attack rate increased from 2s to 1.2s
+- Pit Lord melee damage type changed to true
+- Pit Lord melee damage decreased from 17-33 to 10-30
+- Pit Lord ranged attack damage decreased from 33-66 to 30-60
+- Pit Lord ranged damage type changed to explosive
+- Pit Lord death damage increased from 50 to 75
+
+## SOUL IMPACT
+- Impact damage increased from 25-55 to 75-100
+- Extra Impacts grants +2 impacts, from +1
+- Soul Shockwave stun duration increased from 0.4s to 1.5s
+- Soul Shockwave cost increased from 1 to 2 souls
+- Spectre damage increased from 7-22 to 30-45
+- Spectre quantity increased from 2 to 4
+- Extra Spectres quantity increased from 4 to 8
+- Spectre slow increased from 50% to 75%
+- Spectre slow duration increased from 2s to 5s
+- Feast cooldown reduction decreased from 2s per kill to 0s per kill
+- Feast cost decreased from 1 to 0 souls
+- Soul Echoes chance increased from 25% to 50%
+- Tornado of Souls extra impacts increased from 2 to 4
 
 
-----------[MISCELLANEOUS]----------
--Fixes the Vez'nan eye color retcon
--Rurin, Ingvar, and Elora have replaced Bolgur, Arkuz, and the Winter Queen respectively. Localization has been adjusted to better reflect them.
--Denas and Magnus have had some dialogue changes
--Gerald's dialogue has been reworked to make the best of what was given
--Ancient Ghosts now have their canon names
--Most caps to the amount of sounds (taunts, enemy death, etc.) that can play at once increased or removed
--Taoist Stove (the pots in stages 23-25) now takes away gold when you use it, equal to 20% of the bounty of the enemies killed
--Hero/Tower Unlocks changed:
-	-Oloch is the first hero unlocked
-	-Veruk is unlocked after Dwarven Gate
-	-Beresad is unlocked after Rurin's Throne
-	-War Balloon is unlocked after Jokull's Nest
-	-Mortemis is unlocked after Otil Farmlands
-	-Grim Cemetery is unlocked after Otil Farmlands
-	-Corrupted Sylvan Harassers are unlocked after Silveroak Forest
-	-Wicked Sisters are unlocked after City of Lozagon
-	-Doom Tank is unlocked after Lightseeker Camp
-	-Murglun is unlocked after Denas's Castle
-	-Jun'pai is unlocked after Anurian Plaza
-	-Jigou is unlocked after Gumico Mountains
-	-Eiskalt is unlocked after The Frozen Throne
-	-Swamp Thing is unlocked after Haunted Forest
-	-Jack O'Lantern is unlocked after The Accursed Mire
+# LEVELS
+- Levels 1-22, and 25-27 have a new campaign mode
+- Levels 14-22 and 26 have a new heroic mode
+- Levels 14-22 and 26-27 have a new iron mode
+- Two wave indicators have been swapped on level 11.
+- Bolgur's Throne renamed to Rurin's Throne
+- Northerner's Outpost renamed to Frontier Garrison
+- Breaking the Ice renamed to Gumico Mountains
+- Into the Mountains renamed to Iravocti Glacier
+- Ancient Gate renamed to The Ancient Gate
+- City of Rivers renamed to The City of Rivers
+- Dragon's Power renamed to The Dragon King's Lair
+- Back to the Rotten Forest renamed to Haunted Forest
+- A Night in the Swamp renamed to The Accursed Mire
+- Ancient Ghosts renamed to Ruins of Castle Blackburn
+- Dragon's Boneyard Snowstorm no longer freezes units
+- Levels 9, 10, 20-28 have received extra tower spots.
 
-[TROLL MERCS]
--Rally range increased from 290 to 320
--Troll Spear Hunter
-	-HP increased from 120 to 210
-	-Damage increased from 6-8 to 10-20
-	-Regeneration increased from 1/0.2s to 2/0.2s
-	-Cost increased from 40 to 75
--Troll Axe Hunter
-	-No longer has minimum range
-	-No longer has normal targeting
-	-HP decreased from 180 to 150
-	-Melee damage changed from 15-20 to 15-25
-	-Ranged damage increased from 8-12 to 20-40
-	-Ranged damage type changed from physical to true
-	-Ranged attack rate decreased from 1.3s to 1.6s
-	-Cost increased from 80 to 150
+
+# MISCELLANEOUS
+- Fixes the Vez'nan eye color retcon
+- Rurin, Ingvar, and Elora have replaced Bolgur, Arkuz, and the Winter Queen respectively. Localization has been adjusted to better reflect them.
+- Denas and Magnus have had some dialogue changes
+- Gerald's dialogue has been reworked to make the best of what was given
+- Ancient Ghosts now have their canon names
+- Most caps to the amount of sounds (taunts, enemy death, etc.) that can play at once increased or removed
+- Taoist Stove (the pots in stages 23-25) now takes away gold when you use it, equal to 20% of the bounty of the enemies killed
+- Hero/Tower Unlocks changed:
+	- Oloch is the first hero unlocked
+	- Veruk is unlocked after Dwarven Gate
+	- Beresad is unlocked after Rurin's Throne
+	- War Balloon is unlocked after Jokull's Nest
+	- Mortemis is unlocked after Otil Farmlands
+	- Grim Cemetery is unlocked after Otil Farmlands
+	- Corrupted Sylvan Harassers are unlocked after Silveroak Forest
+	- Wicked Sisters are unlocked after City of Lozagon
+	- Doom Tank is unlocked after Lightseeker Camp
+	- Murglun is unlocked after Denas's Castle
+	- Jun'pai is unlocked after Anurian Plaza
+	- Jigou is unlocked after Gumico Mountains
+	- Eiskalt is unlocked after The Frozen Throne
+	- Swamp Thing is unlocked after Haunted Forest
+	- Jack O'Lantern is unlocked after The Accursed Mire
+
+## TROLL MERCS
+- Rally range increased from 290 to 320
+- Troll Spear Hunter
+	- HP increased from 120 to 210
+	- Damage increased from 6-8 to 10-20
+	- Regeneration increased from 1/0.2s to 2/0.2s
+	- Cost increased from 40 to 75
+- Troll Axe Hunter
+	- No longer has minimum range
+	- No longer has normal targeting
+	- HP decreased from 180 to 150
+	- Melee damage changed from 15-20 to 15-25
+	- Ranged damage increased from 8-12 to 20-40
+	- Ranged damage type changed from physical to true
+	- Ranged attack rate decreased from 1.3s to 1.6s
+	- Cost increased from 80 to 150
 
 ## CARAVAN
 - Can now summon 'Highway Thieves' and 'Elite Mercenaries'
