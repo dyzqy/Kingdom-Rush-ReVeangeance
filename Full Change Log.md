@@ -1351,39 +1351,39 @@ Note: Damage is listed as an average. Assume any changes made preserve the origi
 	-Ranged attack rate decreased from 1.3s to 1.6s
 	-Cost increased from 80 to 150
 
-[CARAVAN]
--Can now summon 'Highway Thieves' and 'Elite Mercenaries'
--Highway Thieves summons two Bandits
--Elite Mercenaries summons a Raider and a Marauder
--Elite Mercenaries price increased to 150
--Bandit 
-	-HP decreased from 180 to 70
-	-Attack rate decreased from 0.6s to 1s
-	-Damage increased from 7-12 to 20-30
-	-Gains a 50% dodge chance
--Marauder 
-	-HP increased from 380 to 450
-	-Armor increased from 50 to 60
-	-Damage decreased from 40-60 to 16-24
--Raider 
-	-HP decreased from 220 to 200
-	-Gains 40% armor
-	-Melee attack rate decreased from 1s to 3s
-	-Melee damage increased from 15-25 to 40-80
-	-Ranged attack rate decreased from 1.5s to 2s
-	-Ranged attack damage increased from 25-40 to 80-120
-	-Ranged attack damage type changed to true
-	-Block range decreased from 140 to 120
+## CARAVAN
+- Can now summon 'Highway Thieves' and 'Elite Mercenaries'
+- Highway Thieves summons two Bandits
+- Elite Mercenaries summons a Raider and a Marauder
+- Elite Mercenaries price increased to 150
+- Bandit 
+	- HP decreased from 180 to 70
+	- Attack rate decreased from 0.6s to 1s
+	- Damage increased from 7-12 to 20-30
+	- Gains a 50% dodge chance
+- Marauder 
+	- HP increased from 380 to 450
+	- Armor increased from 50 to 60
+	- Damage decreased from 40-60 to 16-24
+- Raider 
+	- HP decreased from 220 to 200
+	- Gains 40% armor
+	- Melee attack rate decreased from 1s to 3s
+	- Melee damage increased from 15-25 to 40-80
+	- Ranged attack rate decreased from 1.5s to 2s
+	- Ranged attack damage increased from 25-40 to 80-120
+	- Ranged attack damage type changed to true
+	- Block range decreased from 140 to 120
 
-[SPIDER NEST]
--Spawns units every 6 seconds
--Range increased from 320 to 420
--Baby Spider
-	-Baby Spider health decreased from 90 to 60
-	-Baby Spider damage decreased from 30-50 to 10-18
-	-Baby Spider gains 65% magic resist
-	-Baby Spider no longer loses health over time
--Sticky Web
-	-Slow increased from 20% to 50%
-	-Slow area increased from 70 to 140
+## SPIDER NEST
+- Spawns units every 6 seconds
+- Range increased from 320 to 420
+- Baby Spider
+	- Baby Spider health decreased from 90 to 60
+	- Baby Spider damage decreased from 30-50 to 10-18
+	- Baby Spider gains 65% magic resist
+	- Baby Spider no longer loses health over time
+- Sticky Web
+	- Slow increased from 20% to 50%
+	- Slow area increased from 70 to 140
 
