@@ -1,6 +1,6 @@
 ## About
 <img src="https://media.discordapp.net/attachments/926412252440064040/973220222595133450/unknown.png" alt="Icon"/>
-
+> This Project Was Made by ***AerisDraco*** & ***Mmlh***
 
 ## Instructions
 
@@ -23,5 +23,6 @@ If you wish, copying the original files before adding any modded ones will also 
 
 If you want to edit waves yourself, I have included the formations (specific enemy groupings) used in Revengeance, in the ***Non-Necessary Components\Formations*** folder.
 
+
 ## FaQ
-> This Project Was Made Possible by ***AerisDraco*** & ***Mmlh***
+
