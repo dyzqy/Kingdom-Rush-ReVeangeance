@@ -2,7 +2,6 @@
 <img src="https://media.discordapp.net/attachments/926412252440064040/973220222595133450/unknown.png" alt="Icon"/>
 
 **Kingdom Rush: ReVengeance** (KRRV for short) is a total gameplay overhaul of ***Kingdom Rush Vengeance*** for Steam.
-
 Almost every aspect of the game either has changes or has changes planned. It is overall a more challenging experience, meant for players who had issues with the original game's difficulty and balance.
 Keep in mind that the mod isn't final, and we are open to suggestions.
 
@@ -30,40 +29,37 @@ If you wish, copying the original files before adding any modded ones will also 
 If you want to edit waves yourself, I have included the formations (specific enemy groupings) used in Revengeance, in the ***Non-Necessary Components\Formations*** folder.
 
 
-## Description
+## Features
 
 
 
+### Revamped Towers
+- Most towers have been rebalanced significantly, so no tower is much stronger than any other
+- Some of the most interesting changes include:
+     - The Orc Shaman is now a magic-damage artillery tower
+     - The Grim Cemetery is now rallyable and can have an infinite number of zombies
+     - The Rotten Forest now deals true damage and has much stronger abilities
 
-Features
+### Rebalanced Heroes
+- Heroes should now conform to a more even level of balance (looking at you, Eiskalt)
+- Heroes level up much faster as well, so you can play with all of them without feeling the need to grind
+    - Veruk spams units like no tomorrow
+    - Margosa now takes an anti-spellcaster niche
+    - Tramin is a funny goblin man
 
-Revamped Towers
--Most towers have been rebalanced significantly, so no tower is much stronger than any other
--Some of the most interesting changes include:
-     -The Orc Shaman is now a magic-damage artillery tower
-     -The Grim Cemetery is now rallyable and can have an infinite number of zombies
-     -The Rotten Forest now deals true damage and has much stronger abilities
+### Stronger Enemies
+- Enemies as a whole are much stronger in virtually every capacity
+- A number of new variations on existing enemies have been added, so keep your eyes peeled
 
-Rebalanced Heroes
--Heroes should now conform to a more even level of balance (looking at you, Eiskalt)
--Heroes level up much faster as well, so you can play with all of them without feeling the need to grind
-    -Veruk spams units like no tomorrow
-    -Margosa now takes an anti-spellcaster niche
-    -Tramin is a funny goblin man
+### Better Levels
+- Did you dislike the slow pace of vanilla? Well fear not, most levels have been reworked to be much faster
+- Heroic and iron challenges have become a lot more... interesting
 
-Stronger Enemies
--Enemies as a whole are much stronger in virtually every capacity
--A number of new variations on existing enemies have been added, so keep your eyes peeled
+### Usable Spells
+- Reinforcements are now equivalent to their counterparts in previous games, meaning lower cooldowns, longer durations, and better stats
+- Soul Impact is no longer Soul Tickle, this version is as good as Rain of Fire or Lightning
 
-Better Levels
--Did you dislike the slow pace of vanilla? Well fear not, most levels have been reworked to be much faster
--Heroic and iron challenges have become a lot more... interesting
-
-Usable Spells
--Reinforcements are now equivalent to their counterparts in previous games, meaning lower cooldowns, longer durations, and better stats
--Soul Impact is no longer Soul Tickle, this version is as good as Rain of Fire or Lightning
-
-Flavor and Story Adjustments
--A lot of flavor has been added to the game, chiefly in tower descriptions
--Many new characters introduced in vanilla have been replaced with a fitting counterpart from the original games
+### Flavor and Story Adjustments
+- A lot of flavor has been added to the game, chiefly in tower descriptions
+- Many new characters introduced in vanilla have been replaced with a fitting counterpart from the original games
 
